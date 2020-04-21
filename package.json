@@ -1,0 +1,49 @@
+{
+  "_from": "react-native-ete-rich-editor",
+  "_id": "react-native-ete-rich-editor@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-G3Hk/fEJ5uxnSa3589kxbS8WPasgNHKoKmA7lt22Bdyz6qSaBeZ786vJhA3/lb1YLrXrXwqV/v+xmQbl4mqVCg==",
+  "_location": "/react-native-ete-rich-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-ete-rich-editor",
+    "name": "react-native-ete-rich-editor",
+    "escapedName": "react-native-ete-rich-editor",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-ete-rich-editor/-/react-native-ete-rich-editor-1.0.7.tgz",
+  "_shasum": "5ea07c140bb57d27d2182d0422f95c955f3071aa",
+  "_spec": "react-native-ete-rich-editor",
+  "_where": "/Users/etelligens/Documents/NpmRepos",
+  "author": {
+    "name": "etelligens",
+    "email": "ajaykr089@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/etelligens/react-native-ete-rich-editor/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "React Native Rich Text Editor",
+  "homepage": "https://github.com/etelligens/react-native-ete-rich-editor#readme",
+  "main": "index.js",
+  "name": "react-native-ete-rich-editor",
+  "peerDependencies": {
+    "react-native": ">=0.50.0",
+    "react-native-webview": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etelligens/react-native-ete-rich-editor.git"
+  },
+  "version": "1.0.7"
+}
